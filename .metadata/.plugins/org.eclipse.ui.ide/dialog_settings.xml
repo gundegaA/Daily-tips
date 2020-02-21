@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\gunde\eclipse-workspace\MDrandomGroup"/>
+			<item value="C:\Users\gunde\eclipse-workspace\DailyTips1\.metadata"/>
+			<item value="C:\Users\gunde\eclipse-workspace\DailyTips1\.settings"/>
+			<item value="C:\Users\gunde\eclipse-workspace\DailyTips1\bin"/>
+			<item value="C:\Users\gunde\eclipse-workspace\DailyTips1\src"/>
+			<item value="C:\Users\gunde\eclipse-workspace\DailyTips-master"/>
+			<item value="C:\Users\gunde\eclipse-workspace\DailyTips1"/>
+			<item value="C:\Users\gunde\OneDrive\Dokumenti\GitHub\DailyTips1"/>
+		</list>
+	</section>
+</section>
